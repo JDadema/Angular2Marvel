@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+.mainContent {
+    width: 1280px;
+    margin: 0 auto;
+    background-color: white;
+    min-height: 800px;
+    padding: 20px;
+}
+
+.comicList {
+    list-style: none;
+}
+
+.comicList img {
+    margin-right: 10px;
+}

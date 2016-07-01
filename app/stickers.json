@@ -1,0 +1,32 @@
+[
+  {
+    "id"     : 1,
+    "name"   : "Star Wars",
+    "color"  : "black"
+  },
+  {
+    "id"     : 2,
+    "name"   : "Subaru Impreza",
+    "color"  : "blue"
+  },
+  {
+    "id"     : 3,
+    "name"   : "Overwatch",
+    "color"  : "orange"
+  },
+  {
+    "id"     : 4,
+    "name"   : "Fallout",
+    "color"  : "yellow"
+  },
+  {
+    "id"     : 5,
+    "name"   : "Darth Vader",
+    "color"  : "black"
+  },
+  {
+    "id"     : 6,
+    "name"   : "Custom names",
+    "color"  : "white"
+  }
+]
